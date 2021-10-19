@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xUz1KrVjumUpy7Mv0R8abYIoihU/+Fxrv1IIhUDTx4Z8mH1YrN2/EmVaWKFjSs+tOuSc9Vu/E9Hzt06PApiULQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\AspNet\\Task\\Task\\Task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

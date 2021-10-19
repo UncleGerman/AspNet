@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form method="post">
+    <p>
+        <label>
+            Website:
+        </label>
+        <input type="text" name="target" />
+    </p>
+    <p>
+        <label>
+            Keywords:
+        </label>
+        <textarea name="keywords"></textarea>
+    </p>
+    <p>
+        <label for="search_engine_choice">SearchEngine:</label>
+        <select name="search_engine_choice">
+            <option value="Google">
+                Google
+            </option>
+        </select>
+    </p>
+    <p>
+        <label for="location_name_choice">United States:</label>
+        <select name="location_name_choice">
+            <option value="United States">
+                United States
+            </option>
+        </select>
+    </p>
+    <p>
+        <label for="region">Region:</label>
+        <select name="region">
+            <option value="12">
+                12
+            </option>
+        </select>
+    </p>
+    <p>
+        <input type="submit" value="Отправить" />
+    </p>
+</form>
